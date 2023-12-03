@@ -10,11 +10,9 @@ const App = () =>{
 
   return(
     <div>
-      
       <BrowserRouter>
-      <Worddetails />
       <Header />
-  
+      <Worddetails />
       <Routes>
       <Route exact path="/" Component={Home} />
       <Route path="/History" Component={History} />
