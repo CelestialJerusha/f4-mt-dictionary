@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/f4-mt-dictionary/static/css/main.903aaf33.css",
+    "main.js": "/f4-mt-dictionary/static/js/main.a629fbc5.js",
+    "index.html": "/f4-mt-dictionary/index.html",
+    "main.903aaf33.css.map": "/f4-mt-dictionary/static/css/main.903aaf33.css.map",
+    "main.a629fbc5.js.map": "/f4-mt-dictionary/static/js/main.a629fbc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.903aaf33.css",
+    "static/js/main.a629fbc5.js"
+  ]
+}
